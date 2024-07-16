@@ -18,14 +18,6 @@ Change pdf file and query in code if you want to try with any other content
 
 To run streamlit app, follow the steps run "streamlit run chatbot.py"
 
-# My Project
-
-You can watch the video directly here:
-
-[![Watch the video](https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/tag/chatbot)
-
-
-# Pdf Retrieval Chatbot
 
 ## Video Demonstration
 
