@@ -22,7 +22,7 @@ To run streamlit app, follow the steps run "streamlit run chatbot.py"
 
 You can watch the video directly here:
 
-[![Watch the video](https://img.youtube.com/vi/your_video_id/hqdefault.jpg)](https://github.com/yourusername/yourrepository/releases/download/v1.0/streamlit-mepdf1-2024-07-15-11-07-41%20-%20Copy.webm)
+[![Watch the video](https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/tag/chatbot)
 
 
 ## Acknowledgments:
