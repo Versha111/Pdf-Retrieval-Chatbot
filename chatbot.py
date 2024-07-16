@@ -24,6 +24,13 @@ def main():
     # Extract the text
     if pdf is not None:
         pdf_reader = PdfReader(pdf)
+        pdf_text = ""
+        page_texts = []
+        for page_num, page in enumerate(pdf_reader.pages):
+            page_text = page.extract_text()
+            if page_text:  # Ensure text is not None
+                pdf_text += page_text
+                page_texts.append({"page_number": page_num + 1, "text": page_text})
 
         # Split the text into chunks
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
@@ -56,10 +63,10 @@ def main():
             for doc in docs:
                 source = doc.metadata['source']
                 if source not in sources:
-                   
+                    sources[source] = doc.page_content
 
             for source, content in sources.items():
-               
+                with st.expander(f"Source: Page {source}"):
                     st.write(content)
 
 if __name__ == '__main__':
