@@ -18,6 +18,9 @@ Change pdf file and query in code if you want to try with any other content
 
 To run streamlit app, follow the steps run "streamlit run chatbot.py"
 
+# My Project
+
+Check out the video here: [View Video](https://drive.google.com/file/d/1MWa8iiTaXjAFn77Fmj3tFH-ehuVT79bH/view?usp=drive_link) 
 
 
 
