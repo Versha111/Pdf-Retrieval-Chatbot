@@ -28,11 +28,12 @@ You can watch the video directly here:
 
 ## Video Demonstration
 
+Below is the video demonstration of the chatbot:
+
 <video width="640" height="360" controls>
   <source src="https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/download/chatbot/streamlit-mepdf1-2024-07-15-11-07-41%20-%20Copy.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
 
 
 ## Acknowledgments:
