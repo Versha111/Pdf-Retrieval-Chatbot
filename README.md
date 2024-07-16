@@ -20,10 +20,9 @@ To run streamlit app, follow the steps run "streamlit run chatbot.py"
 
 # My Project
 
-Check out the video here: [View Video](https://drive.google.com/file/d/1MWa8iiTaXjAFn77Fmj3tFH-ehuVT79bH/view?usp=drive_link) 
+You can watch the video directly here:
 
-
-
+[![Watch the video](https://img.youtube.com/vi/your_video_id/hqdefault.jpg)](https://github.com/yourusername/yourrepository/releases/download/v1.0/streamlit-mepdf1-2024-07-15-11-07-41%20-%20Copy.webm)
 
 
 ## Acknowledgments:
