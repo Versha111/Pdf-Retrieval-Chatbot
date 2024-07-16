@@ -25,15 +25,12 @@ You can watch the video directly here:
 [![Watch the video](https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/tag/chatbot)
 
 
+# Pdf Retrieval Chatbot
 
 ## Video Demonstration
 
-Below is the video demonstration of the chatbot:
+[![Streamlit Video Thumbnail](https://github.com/user-attachments/assets/1f9c2d85-c660-4cc0-a556-2b54bfa4d5d7)](https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/download/chatbot/streamlit-mepdf1-2024-07-15-11-07-41%20-%20Copy.webm)
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Versha111/Pdf-Retrieval-Chatbot/releases/download/chatbot/streamlit-mepdf1-2024-07-15-11-07-41%20-%20Copy.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 
 ## Acknowledgments:
